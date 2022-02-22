@@ -1,0 +1,14 @@
+{
+  "name": "banbot",
+  "version": "1.0.0",
+  "description": "custom bot by nat2k15",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nat2k15",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.6.0"
+  }
+}

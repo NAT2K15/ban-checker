@@ -1,0 +1,20 @@
+{
+    "settings": {
+        "token": "Discord Token",
+        "server_id": "Server ID",
+        "status": "bans",
+        "message": "In order to join our server you must be unbanned from our discord.",
+        "debug": true
+    },
+
+    "logging": {
+        "enable": true,
+        "display_ip": true,
+        "channel": "Channel ID"
+    },
+
+    "embed": {
+        "color": "#0000",
+        "footer": "NAT roleplay"
+    }
+}
